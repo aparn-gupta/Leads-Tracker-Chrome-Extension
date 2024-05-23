@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  border-color: rgb(77, 79, 198);
+  height: 3.5em;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 2em;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+}
+
+button {
+  background-color: rgb(77, 79, 198);
+  color: white;
+  border: 2px solid;
+  border-color: rgb(77, 79, 198);
+  font-weight: bold;
+  height: 2.5em;
+  width: 9em;
+}
+
+ul {
+  color: rgbrgb(77, 79, 198);
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+li {
+  color: rgb(77, 79, 198);
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+a {
+  color: rgb(77, 79, 198);
+}
+
+#dlt-btn {
+  color: rgb(77, 79, 198);
+  background-color: white;
+}
